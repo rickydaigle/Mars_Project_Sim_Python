@@ -1,0 +1,2 @@
+# Mars_Project_Sim_Python
+Small Python project for a SYS5350 Modeling & Simulation for Systems Engineering course. Takes in from file or source code the standard time taken to complete 3 tasks and applies a factor to those times based on data collected earlier in the project regarded distraction levels from external sources. Purpose was to show how a project can fail or succeed based on the distraction level and number of distracted workers.
